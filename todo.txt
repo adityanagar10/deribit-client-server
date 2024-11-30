@@ -1,0 +1,36 @@
+Latency Benchmarking
+======
+1.Measure and document the following metrics:
+   [x] Order placement latency
+   [x] Market data processing latency
+   [x] WebSocket message propagation delay
+   [x] End-to-end trading loop latency
+
+Optimization Requirements
+======
+1.Implement and justify optimization techniques for:
+   - Memory management
+   - Network communication
+   - Data structure selection
+   - Thread management
+   - CPU optimization
+
+Documentation Requirements for Bonus Section
+======
+1.Detailed analysis of bottlenecks identified
+2.Benchmarking methodology explanation
+3.Before/after performance metrics
+4.Justification for optimization choices
+5.Discussion of potential further improvements
+
+Deliverables
+======
+1.Complete source code with documentation
+2.Video recording demonstrating:
+   - System functionality
+   - Code review
+   - Implementation explanation
+3.If completing bonus section:
+   - Performance analysis report
+   - Benchmarking results
+   - Optimization documentation
